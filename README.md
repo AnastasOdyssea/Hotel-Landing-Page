@@ -9,3 +9,5 @@ Technolgies used:
 HTML
 CSS
 
+You can find the landing page here: https://anastasodyssea.github.io/Hotel-Landing-Page/
+
